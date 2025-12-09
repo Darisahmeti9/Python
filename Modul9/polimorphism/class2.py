@@ -25,4 +25,3 @@ rectangle=Rectangle(4,6)
 
 print("Area of the circle:", circle.area())
 print("Area of the rectangle:",rectangle.area())
-a
