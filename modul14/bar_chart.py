@@ -27,3 +27,4 @@ plt.bar_label(bars,fmt="%.2f",fontsize=10,color="black")
 plt.tight_layout()
 plt.show()
 
+s
