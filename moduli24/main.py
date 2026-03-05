@@ -15,4 +15,4 @@ def read_root():
 def create_movie(movie: MovieCreate, movie_id=None):
     """Creates a new movie in the database"""
     movie_id - database.create_movie(movie)
-    return models.Movie(id.movie_id, **movie.dict())
+    return models.Movie(id.movie_id, **movie.dict())yt
